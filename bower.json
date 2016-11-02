@@ -1,0 +1,16 @@
+{
+  "name": "ionic-mixpanel",
+  "homepage": "https://github.com/null-none/ionic-mixpanel",
+  "authors": [
+    "Dmitry Kalinin <dmitry.kalinin.email@gmail.com>"
+  ],
+  "description": "Ionic service for use mixpanel",
+  "main": "ionicMixpanel.js",
+  "version": "0.0.1",
+  "keywords": [
+    "ionic",
+    "mixpanel"
+  ],
+  "license": "MIT",
+  "private": false
+}
